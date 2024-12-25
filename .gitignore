@@ -7,3 +7,6 @@ TAGS
 build
 .waf*
 /.lock-waf_linux2_build
+**/.vscode
+.lock-waf_linux_build
+
